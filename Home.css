@@ -1,0 +1,55 @@
+#header{
+    background-color: #f0f0f0;
+}
+
+#picture_logo{
+    width: 400px;
+    height: 5000px;
+    margin-left: 100px;
+}
+
+#logo_fixed{
+    overflow: hidden;
+}
+
+#header_txt{
+    margin-top: 70px;
+    color: dimgray;
+    margin-bottom: 2px;
+    font-size: 45px;
+}
+
+
+#header_txt_trends{
+    color: dimgray;
+    font-size: 20px;
+}
+#register{
+    background: #141313;
+    height:20px;
+    margin-left: 10px;
+    color:#ebe9e9;
+    font-size: 12px;
+    border: none;
+    border-radius: 5px; 
+    margin: -5px;
+   
+}
+#register:hover{
+    background: linear-gradient(#8b0d0d, black)
+}
+#login{
+    background: #141313;
+    height:20px;
+    margin-left: 10px;
+    color:#ebe9e9;
+    font-size: 12px;
+    border: none;
+    border-radius: 5px; 
+    margin: -5px;
+   
+}
+#login:hover{
+    background: linear-gradient(#8b0d0d, black)
+}
+
